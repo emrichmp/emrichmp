@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:emrichmp@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/emrichmp)
   
-  [Check Out my Resume Here!](https://docs.google.com/document/d/1LlwHtLDJWqDncr79VObXi--MImGA6dua7uNbmwehm4M/edit?usp=sharing)
+  ## [Check Out my Resume Here!](https://docs.google.com/document/d/1LlwHtLDJWqDncr79VObXi--MImGA6dua7uNbmwehm4M/edit?usp=sharing)
 
 <p>
   <code><a href="https://www.ruby-lang.org/en/"><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></a></code>
@@ -22,6 +22,8 @@
   <code><a href="https://github.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
   <code><a href="https://visualstudio.microsoft.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 </p>
+  
+  *Currently Refreshing my Portfolio Website, should be back up soon!*
   
   </div>
 
