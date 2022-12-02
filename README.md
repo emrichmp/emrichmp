@@ -23,7 +23,7 @@
   <code><a href="https://visualstudio.microsoft.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 </p>
   
-  *Currently Refreshing my Portfolio Website, should be back up soon!*
+  *Currently doing a complete refresh on my portfolio website, should be back up soon!*
   
   </div>
 
