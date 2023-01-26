@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hey! 👋 My Name is Emrich! 👋 </h1>
+  <h1> Hey! 👋 My Name is Emrich-Michael! 👋 </h1>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/emrichmp)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emrich-michael-perrier/)
