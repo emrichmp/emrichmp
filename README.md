@@ -28,10 +28,10 @@
   </div>
 
 - 🔭 I’m currently working on ...
-  - Currently I work fulltime as a frontend developer at Tango Analytics! I work on the mapviewer product that Tango provides to it's clients! You can check out some information on the Tango Platform by checking out this [link](https://tangoanalytics.com/products/tango-platform/)!
+  - Currently I work as a freelance developer on Upwork! Right now I'm working for OFTV and building their LGTV App using HTML, CSS, and JavaScript! [link](https://www.upwork.com/freelancers/emrichmichaelperrier)!
   
 - 🌱 I’m currently learning ...
-  - At the moment I am refreshing myself on React and Ruby on Rails. In addition I am spending time diving deeper into both CSS and nodeJS.
+  - At the moment I am refreshing myself on React and working more on my TikTok Clone! :D
   
 - 📫 How to reach me: ...
   - Email: emrichmp@gmail.com
