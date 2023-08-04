@@ -1,6 +1,7 @@
 <div align="center">
   <h1> Hey! 👋 My Name is Emrich-Michael! 👋 </h1>
-
+  
+[![Upwork](https://img.shields.io/badge/-Upwork-000?style=flat&logo=Upwork&logoColor=green)](https://www.upwork.com/freelancers/emrichmichaelperrier)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/emrichmp)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emrich-michael-perrier/)
 [![Medium](https://img.shields.io/badge/-Medium-12100e?style=flat&logo=Medium&logoColor=white)](https://emrichmp.medium.com/)
