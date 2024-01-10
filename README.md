@@ -36,7 +36,6 @@
   
 - 📫 How to reach me: ...
   - Email: emrichmp@gmail.com
-  - Google Voice: 929-445-0390
   - Message me on [LinkedIn!](https://www.linkedin.com/in/emrich-michael-perrier/)
 
 - 😄 Pronouns: ...
